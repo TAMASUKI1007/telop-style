@@ -8,7 +8,7 @@ CapCut で作ったテニスレッスン動画（縦型）のテロップの決�
 
 ## 別の PC で使う手順
 
-1. この PC の GitHub に、このリポジトリが見えるアカウントでログインする（非公開リポジトリのため）
+1. 公開リポジトリなので GitHub へのログインは不要（Git だけ入っていればよい）
 2. 好きな場所でターミナルを開いて取り込む
    ```bash
    git clone https://github.com/TAMASUKI1007/telop-style.git
