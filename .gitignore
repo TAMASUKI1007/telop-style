@@ -1,0 +1,11 @@
+# 動画・画像素材は入れない
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
